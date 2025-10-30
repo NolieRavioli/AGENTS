@@ -12,6 +12,7 @@ This repository houses curated **AGENTS.md** playbooks that describe how special
 
 - [Python — Basic Toolkit](Python/Basic/README.md)
 - [Python — Flask-Based Services](Python/Flask-Based/README.md)
+- [Python — Eve Data Framework](Python/Eve-Data-Framework/README.md)
 - [C++ — Basic Toolkit](C++/Basic/README.md)
 
 ## Charter Overview
@@ -20,6 +21,7 @@ This repository houses curated **AGENTS.md** playbooks that describe how special
 | --- | --- | --- |
 | `Python/Basic/` | [Advanced Multi-Agent Guide for Python Projects](Python/Basic/AGENTS.md) | Meta-driven orchestration for core Python utilities with code, documentation, testing, infra, security, packaging, data, auth, and utility specialists.
 | `Python/Flask-Based/` | [Flask-Oriented Multi-Agent Guide](Python/Flask-Based/AGENTS.md) | Web-focused delegation covering backend APIs, templating, front-end assets, authentication, deployment, QA, and observability agents coordinated by a meta agent.
+| `Python/Eve-Data-Framework/` | [Eve Data Framework Agent Charter](Python/Eve-Data-Framework/AGENTS.md) | Schema-driven REST services on Eve with agents for resource design, hooks, security, deployment, and documentation.
 | `C++/Basic/` | [Advanced Multi-Agent Guide for C++ Projects](C++/Basic/AGENTS.md) | Structured support for C++ source, build, documentation, testing, packaging, performance, safety, and cross-language integration led by a meta coordinator.
 
 ## Usage Tips
