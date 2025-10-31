@@ -4,7 +4,7 @@ This repository houses curated **AGENTS.md** playbooks that describe how special
 
 ## Getting Started
 
-1. Choose the technology stack you are working on (Python basics, Flask web apps, or C++ basics).
+1. Choose the technology stack you are working on (Python basics, Flask web apps, C++ basics, or cross-repo merge initiatives).
 2. Open the corresponding `AGENTS.md` to understand which meta agent coordinates the work and which specialist agents are available.
 3. Follow the README in that directory for quickstart setup, tooling expectations, and contribution guidelines.
 
@@ -14,6 +14,7 @@ This repository houses curated **AGENTS.md** playbooks that describe how special
 - [Python — Flask-Based Services](Python/Flask-Based/README.md)
 - [Python — Eve Data Framework](Python/Eve-Data-Framework/README.md)
 - [C++ — Basic Toolkit](C++/Basic/README.md)
+- [Merge Playbook Hub](META/Merge/README.md)
 
 ## Charter Overview
 
@@ -23,6 +24,7 @@ This repository houses curated **AGENTS.md** playbooks that describe how special
 | `Python/Flask-Based/` | [Flask-Oriented Multi-Agent Guide](Python/Flask-Based/AGENTS.md) | Web-focused delegation covering backend APIs, templating, front-end assets, authentication, deployment, QA, and observability agents coordinated by a meta agent.
 | `Python/Eve-Data-Framework/` | [Eve Data Framework Agent Charter](Python/Eve-Data-Framework/AGENTS.md) | Schema-driven REST services on Eve with agents for resource design, hooks, security, deployment, and documentation.
 | `C++/Basic/` | [Advanced Multi-Agent Guide for C++ Projects](C++/Basic/AGENTS.md) | Structured support for C++ source, build, documentation, testing, packaging, performance, safety, and cross-language integration led by a meta coordinator.
+| `META/Merge/` | [Merge-Focused Agent Hierarchy](META/Merge/AGENTS.md) | Coordinated repoA-to-repoB migration strategy covering discovery, refactorization, validation, and safety protocols across sibling repositories.
 
 ## Usage Tips
 
